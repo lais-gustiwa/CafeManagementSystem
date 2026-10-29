@@ -1,5 +1,5 @@
-# Cafe Management System (Java CLI)
-Tugas Projek Akhir Pemrograman Berorientasi Objek.
+# Cafe Management System
+Projek Pemrograman Berorientasi Objek.
 
 ## Fitur
 - **Admin:** Login, Tambah Menu, Lihat Menu.
